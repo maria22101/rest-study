@@ -1,0 +1,1 @@
+Sprin Boot training project - to practice building Rest service
